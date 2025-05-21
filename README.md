@@ -1,5 +1,13 @@
 # Net
 
+## 1 - Traduisez ce texte: 
+
+The .NET platform has been designed to deliver productivity, performance, security, and reliability. It provides automatic memory management via a garbage collector (GC). It is type-safe and memory-safe, due to using a GC and strict language compilers. It offers concurrency via async/await and Task primitives. It includes a large set of libraries that have broad functionality and have been optimized for performance on multiple operating systems and chip architectures.
+
+.net est une platforme qui est concue pour avoir une meilleure productivité, performance, sécrurité  et fiabilité. elle sert de gestion pour le garbage collector ( la gestion automatique de la mémoire ).
+il y a un grand nombre de bibliothéque de fonctionnalité et elle est optimiser pour la performance de plusieurs systèmes d'exploitation et d'architectures de puces
+
+
 ## 2 - Qu’est ce que le Markdown ?
 
 C'est un language assez simple qui permet de prendre des notes et de formater de texte facilement.
